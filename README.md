@@ -29,6 +29,13 @@ T.me/HuyXCheckerx
 For price and demontrations, plus cracked wallet marketplace
 
 
+## **Minimum System Requirements ‼️**
+	1.  Memory: 8 MB
+	2.  CPU: Intel Core 2 Quad Q6600
+	3.  OS: Windows 7
+ 	4.  Runtime: .NET 6.0 (https://dotnet.microsoft.com/en-us/download/dotnet/6.0)
+
+
 
 
 
